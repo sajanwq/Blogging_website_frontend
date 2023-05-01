@@ -1,0 +1,287 @@
+
+/* csss for blogs category items  */
+body {
+	margin:  0;
+}
+.blogs-navs .nav-link {
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.blogs-navs .nav-link:hover {
+ color: darkgoldenrod;
+}
+
+#travelcategory{
+    border-right: solid 2px gray;
+}
+
+
+.imagessignup{
+    padding-bottom: 6px;
+}
+
+
+
+/* custom css design for videos secstion */
+@media only screen and (min-width: 768px) {
+    #myIframeVideo{
+      height: 18em;
+      width: 25em;
+    }
+    .myyoutubecard{
+      width: 50%;
+    } 
+  }
+
+
+  @media only screen and (min-width: 1200px) {
+      #myIframeVideo{
+          height:500px;
+          width:1100px;
+      }
+  }
+
+
+  /* csss for regiter user in admin panel */
+
+  .action .reply >button:hover{
+      background:red!important;
+      border: darkred!important;
+  }
+
+  .updatebutton >button:hover{
+    background:green!important;
+    
+  }
+
+
+ 
+
+/*   csss for profile image selection */
+  .profileSection:hover{
+    background-color:darkgrey !important;
+  }
+
+  .profileSection >img{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+  }
+
+  .profileSection{
+    width: 100px;
+    border: solid 1px;
+    border-radius: 25px;
+    background-color:none;
+    
+  }
+
+/* csss for navbar items */
+
+
+
+
+
+  .listvitrako, .homelinks, .bloglinks, .videoslinks, .aboutlinks{
+    font-size: 20px;
+    color:lightgray;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .listvitrako .homelinks:hover{
+    color:lightgreen;
+
+  }
+
+  .bloglinks:hover{
+    color:lightgreen;
+  }
+
+  .videoslinks:hover{
+    color:lightgreen;
+  }
+  .aboutlinks:hover{
+    color:lightgreen;
+  }
+
+  .loginlinks:hover{
+    color:lightgreen;
+  }
+  .signuplinks:hover{
+    color:lightgreen;
+  }
+
+   .loginlinks{
+    font-size: 18px;
+    color:lightgray;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+
+  .signuplinks{
+    font-size: 18px;
+    color:lightgray;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+ 
+
+  .loginnavlink{
+    text-decoration: none;
+    color:lightgray
+  }
+
+  .signupnavlink{
+    text-decoration: none;
+    color:lightgray
+  }
+
+
+ 
+
+  .profiledropdown{
+    color:lightgray;
+    text-decoration: none;
+  }
+
+  .profiledropdown:hover{
+    color: lightgray;
+    text-decoration: none;
+  }
+
+  /* dropdown items csss */
+
+  /* .dropProfile:visited{
+    color:black;
+    text-decoration: none;
+    padding-left: 5px;
+    margin-left: 5px;
+
+  } */
+
+/* .abacde 
+a:link,
+a:hover,
+a:visited,
+a:active,
+a:focus{
+    color:black;
+    text-decoration: none;
+    padding-left: 5px;
+    margin-left: 5px;
+} */
+
+
+ /* .abacde a:active{
+  color:black;
+  text-decoration: none;
+  padding-left: 5px;
+  margin-left: 5px;
+} */
+
+
+.abacde a:visited{
+  color:black;
+  text-decoration: none;
+  padding-left: 5px;
+  margin-left: 5px;
+} 
+.abacde a:link{
+  color:black;
+  text-decoration: none;
+  padding-left: 5px;
+  margin-left: 5px;
+}
+
+/* *****************image uploads******** */
+.imageuploads .imageUploadButton {
+  text-decoration: none;
+  background-color: rgb(24, 24, 218);
+  color: white;
+
+}
+
+
+
+.imageuploads .videoUploadButton {
+  text-decoration: none;
+  background-color:rgb(2, 102, 92);
+  color: white;
+
+}
+
+
+/* *****************************blogs infomore option css */
+.BlogsInfoOption >li {
+  list-style-type: none!important;
+}
+
+
+.BlogMoreOption{
+  color: black;
+}
+
+
+.mycreatedblogMoreOption a:visited{
+  color:black;
+  text-decoration: none;
+  padding-left: 5px;
+  margin-left: 5px;
+
+}
+mycreatedblogMoreOption a:link{
+  color:black;
+  text-decoration: none;
+  padding-left: 5px;
+  margin-left: 5px;
+
+}
+
+
+
+/* ************************react modal************* */
+.reactmodal{
+  height: 100px;
+  width: 200px;
+}
+
+  /* ************modals custom css**********/
+
+  .modaltitles {
+    font-size: 20px;
+    color:rgb(13, 100, 129);
+    font-weight: bold;
+    margin-bottom: 50px;
+    
+  }
+
+
+
+  /******************************** csss for modals********************* */
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
